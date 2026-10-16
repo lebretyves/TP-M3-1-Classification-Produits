@@ -4,6 +4,8 @@
 
 Module 3 - Epitech MBA Santé, IA & IoT - 16 octobre 2026.
 
+Équipe GitHub : [lebretyves](https://github.com/lebretyves), [Faucourt](https://github.com/Faucourt) et [aglnix](https://github.com/aglnix).
+
 Le PDF de réponse porte uniquement sur le **cas G : souris ergonomique avec batterie unique de 1 500 mAh et logiciel**. La grille Excel contient les huit produits du modèle et le cas G.
 
 ## Documents du TP

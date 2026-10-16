@@ -4,7 +4,7 @@
 
 Module 3 - Epitech MBA Santé, IA & IoT - 16 octobre 2026.
 
-Équipe GitHub : [lebretyves](https://github.com/lebretyves), [Faucourt](https://github.com/Faucourt) et [aglnix](https://github.com/aglnix).
+**Équipe 2** : [lebretyves](https://github.com/lebretyves), [Faucourt](https://github.com/Faucourt) et [aglnix](https://github.com/aglnix).
 
 Le PDF de réponse porte uniquement sur le **cas G : souris ergonomique avec batterie unique de 1 500 mAh et logiciel**. La grille Excel contient les huit produits du modèle et le cas G.
 
@@ -20,7 +20,7 @@ Le PDF de réponse porte uniquement sur le **cas G : souris ergonomique avec bat
 
 Le PDF a été réécrit le 16 octobre 2026. La classe IIa du logiciel reste une proposition pour l’usage médical envisagé, et non une certification du prototype. L’énoncé et la grille vierge restent inchangés.
 
-La grille précise l’exemple étudié pour chaque produit. La détection de chute et les rappels du pilulier sont retenus comme des fonctions d’assistance hors dispositif médical : les tirets signifient « non applicable ». Pour IM009, la classe I indiquée est celle déclarée sous l’ancienne directive, pas une classe MDR confirmée. Les sources et les limites figurent dans les notes et les justifications.
+La grille précise l’exemple étudié pour chaque produit. L’application de sommeil, la détection de chute et les rappels du pilulier sont retenus hors dispositif médical pour les usages étudiés : les colonnes classe et règle indiquent explicitement « Non applicable ». Pour IM009, la classe I indiquée est celle déclarée sous l’ancienne directive, pas une classe MDR confirmée. Les sources et les limites figurent dans les notes et les justifications.
 
 ## Source du PDF
 

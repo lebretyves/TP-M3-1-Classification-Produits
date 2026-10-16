@@ -1,0 +1,15 @@
+{
+  "date": "16 octobre 2026",
+  "finalite": "Analyse les gestes de la main et du poignet pour fournir au professionnel de santé des recommandations personnalisées de prise en charge des troubles musculosquelettiques.",
+  "statut": "Dispositif médical",
+  "classe": "IIa",
+  "regle": "Règle 11 (logiciel)",
+  "organisme_notifie": "Oui",
+  "justification": "Le logiciel prévu aide un professionnel à choisir une prise en charge des TMS. IIa probable sous l’hypothèse d’un usage non critique, à confirmer par l’analyse des conséquences d’une erreur. Le prototype n’est pas certifié et son efficacité clinique n’est pas démontrée.",
+  "sources": [
+    {"id": "1", "titre": "Règlement (UE) 2017/745, art. 2, art. 52 et annexe VIII", "url": "https://eur-lex.europa.eu/eli/reg/2017/745/oj/fra"},
+    {"id": "2", "titre": "MDCG 2019-11 rév. 1, juin 2025 : qualification et règle 11, p. 17-18", "url": "https://health.ec.europa.eu/system/files/2025-06/mdcg_2019_11_en.pdf"},
+    {"id": "3", "titre": "MDCG 2023-4 : association d’un logiciel médical et de son matériel", "url": "https://health.ec.europa.eu/system/files/2023-10/md_mdcg_2023-4_software_en.pdf"},
+    {"id": "4", "titre": "Projet TP4 : étude de la batterie unique 1 500 mAh", "url": "https://github.com/lebretyves/TP4-IoT-Autonomie/tree/b82e9d2e6cada81801747adf13e1b615f7c6574b/variantes/03_batterie_unique_USB_C/1500mAh"}
+  ]
+}

@@ -20,6 +20,8 @@ Le PDF de réponse porte uniquement sur le **cas G : souris ergonomique avec bat
 
 Le PDF a été réécrit le 16 octobre 2026. La classe IIa du logiciel reste une proposition pour l’usage médical envisagé, et non une certification du prototype. L’énoncé et la grille vierge restent inchangés.
 
+La grille précise l’exemple étudié pour chaque produit. La détection de chute et les rappels du pilulier sont retenus comme des fonctions d’assistance hors dispositif médical : les tirets signifient « non applicable ». Pour IM009, la classe I indiquée est celle déclarée sous l’ancienne directive, pas une classe MDR confirmée. Les sources et les limites figurent dans les notes et les justifications.
+
 ## Source du PDF
 
 - [Données du cas G et références](analyses/m3/cas_g.json)
